@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="IP ADDRESS INFO">b56c5c981b740010614aed3abc4bcb38</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>IP ADDRESS INFOs</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_375293_ip_lookup_ip_address_info</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_375293_ip_lookup.ip_address_info_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-25 14:28:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>716c5c981b740010614aed3abc4bcb3b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IP ADDRESS INFOs</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IP Lookup" source="x_375293_ip_lookup">dcd88cd41b340010614aed3abc4bcb3e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IP Lookup">dcd88cd41b340010614aed3abc4bcb3e</sys_scope>
+        <sys_update_name>sys_app_module_716c5c981b740010614aed3abc4bcb3b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-25 14:28:07</sys_updated_on>
+        <timeline_page/>
+        <title>IP ADDRESS INFOs</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
